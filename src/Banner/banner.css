@@ -1,0 +1,22 @@
+#banner
+{
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+    color: white;
+    padding: 5%;
+    height: 606px;
+}
+
+.cmtitle
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+
+
+
+#wave
+{
+    width: 1518px;
+    margin-left: -75px;
+}
